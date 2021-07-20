@@ -4,16 +4,14 @@
     "start": "nodemon index.js"
   },
   "dependencies": {
-    "body-parse": "^0.1.0",
     "dotenv": "^10.0.0",
     "exceljs": "^4.2.1",
-    "express": "^4.17.1",
-    "fs": "^0.0.1-security",
     "knex": "^0.95.7",
     "knexnest": "^1.0.0",
-    "mysql": "^2.18.1",
+    "node-schedule": "^2.0.0",
     "node-telegram-bot-api": "^0.53.0",
     "nodemon": "^2.0.12",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "request": "^2.88.2"
   }
 }
